@@ -47,6 +47,12 @@ learning-path-recommender-ai/
 - Integrate real course platforms like Coursera
 - User login and profile tracking
 
+UI of the Project:
+<img width="1580" height="757" alt="image" src="https://github.com/user-attachments/assets/06b85ac1-829f-432d-8b12-35a2ff685a3a" />
+
+Demo of the Learning Recommender:
+<img width="1566" height="766" alt="image" src="https://github.com/user-attachments/assets/9e4ffa1f-7a99-47d4-85f0-434d154c19db" />
+
 ## Author
 Bhargavi Reddy
 
